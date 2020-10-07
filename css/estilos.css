@@ -1,0 +1,82 @@
+html{
+	font-size: 20px;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: url(imagem.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    background-image: url(imagem.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color:#000000;
+	font-family: georgia, Helvetica, sans-serif;
+	font-size: 150%;
+}
+h1{ 
+	font-size: 250%;
+    text-align: center;
+}
+
+
+h2{ 
+	font-size: 1.2rem;
+    text-align: center;
+}
+
+h3{ 
+	font-size: 1rem;
+    text-align: center;
+}
+
+footer {
+	background-color: black;
+	color: white;
+	font-size: 0.7rem;
+	margin-top: 20px;
+	padding: 5px;
+	text-align: center;
+}
+
+div.Expo{
+	margin: 0 auto;
+	width: 80%;
+}
+
+div.Mrl{
+	color: #FFFFFF;
+}
+
+section article{
+	background-color: rgb(220, 220, 220);
+	margin: 20px;
+	padding: 12px;
+	border-radius: 10px;
+}
+
+section article p{
+	font-size: 0.8rem;
+	text-align: justify;
+	text-align: center;
+
+}
+
+nav span a{
+	font: bold 20px Verdana;
+	text-decoration: none;
+	color:#f2f2f2;
+	border: 4px solid #f2f2f2;
+	padding: 10px 20px 10px 20px;
+	border-radius: 10px;
+	transition: background .6s,color .6s;
+	margin: 25px;
+
+
+	}
+
+nav span a:hover{
+	background-color: #f2f2f2;
+	color: #0489B1;
+}
